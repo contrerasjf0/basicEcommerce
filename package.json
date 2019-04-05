@@ -1,0 +1,31 @@
+{
+  "name": "basicecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contrerasjf0/basicEcommerce.git"
+  },
+  "keywords": [
+    "expressjs",
+    "ecommerce"
+  ],
+  "author": "contrerasJF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/contrerasjf0/basicEcommerce/issues"
+  },
+  "homepage": "https://github.com/contrerasjf0/basicEcommerce#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
